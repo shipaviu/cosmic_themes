@@ -1,2 +1,3 @@
-# cosmic_themes
-Themes for RUST-based COSMIC Desktop from System76
+# Themes for COSMIC-Desktop from System76
+
+
